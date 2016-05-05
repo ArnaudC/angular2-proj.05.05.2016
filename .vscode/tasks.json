@@ -1,0 +1,10 @@
+{
+	"version": "0.1.0",
+	"command": "npm",
+    "args": [
+        "start"
+    ],
+	"isShellCommand": true,
+	"showOutput": "always",
+	"problemMatcher": "$tsc"
+}
